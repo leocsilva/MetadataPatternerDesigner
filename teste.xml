@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patterns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://base.repositorio.unesp.br/XMLSchema/MetadataPatterner">
+
+	<pattern label="Universidade Estadual Paulista (UNESP)">
+		<rules>
+			<match>aracatuba dent sch</match>
+			<match>aracatuba dental school</match>
+			<match>araraquara dent sch</match>
+			<match>araraquara dental school</match>
+			<match>araraquara inst chem</match>
+			<match>araraquara sch dent</match>
+			<match>ararquara sch dent</match>
+			<match>biociencias de botucatu</match>
+			<match>botucatu bio</match>
+			<match>botucatu fac</match>
+			<match>botucatu hem</match>
+			<match>hemoctr botucatu</match>
+			<match>botucatu hos</match>
+			<match>botucatu school of med</match>
+			<match>dent sch sao jose d</match>
+			<match>dent sch sao jose c</match>
+			<match>dent sch s jose campos</match>
+			<match>dental school of araraquara</match>
+			<match>dent sch of araraquara</match>
+			<match>dent sch araraquara</match>
+			<match>rubiao junior</match>
+			<match>rubiao jr</match>
+			<match>fac ciencias letras araraquara</match>
+			<match>fac ciencias farmaceut araraquara</match>
+			<match>fac dent aracatuba</match>
+			<match>fac odontol araraquara</match>
+			<match>fac de medicina de botucatu</match>
+			<match>faculdade de medicina de botucatu</match>
+			<match>fcav</match>
+			<match>faculdade de ciencias agrarias e veterinarias</match>
+			<match>faculdade de ciencias agronomicas</match>
+			<match>faculdade de ciencias e tecnologia presidente prudente</match>
+			<match>faculdade de engenharia de ilha solteira</match>
+			<match>faculdade de medicina veterinaria e zootecnia de botucatu</match>
+			<match>faculdade de odontologia de aracatuba</match>
+			<match>faculdade de odontologia do campus de aracatuba</match>
+			<match>faculdade engenharia s jose campos</match>
+			<match>faculdade de odontologia de sao jose dos campos</match>
+			<match>faculty of medicine of botucatu</match>
+			<match>medical school botucatu</match>
+			<match>medical school of botucatu</match>
+			<match>medicine school of botucatu</match>
+			<match>medicine university of botucatu</match>
+			<match>sao jose dos campos dent sch</match>
+			<match>sao jose dos campos dental school</match>
+			<match>school of medicine of botucatu</match>
+			<match>universidade do estado de sao paulo</match>
+		</rules>
+		<value>Universidade Estadual Paulista (UNESP)</value>
+	</pattern>
+
+	<pattern label="Universidade de São Paulo (USP)">
+		<rules>
+			<match>bauru dent sch</match>
+			<match>bauru sch dent</match>
+			<match>bauru school of dentistry</match>
+			<match>esalq</match>
+			<match>escola superior de agricultura luiz de queiroz</match>
+			<match>faculty of dentistry of bauru</match>
+			<match>univ de sao paulo</match>
+			<match>univerisade de sao paulo</match>
+			<match>univerisidade de sao paulo</match>
+			<match>universidade de s paulo</match>
+			<match>universidade sao paulo</match>
+			<match>univesidade de sao paulo</match>
+			<match>faculdade engenharia quim de lorena</match>
+			<match>lorena sch engn</match>
+			<match>eel usp</match>
+			<match>faenquil</match>
+			<match>school of chemical engineering of lorena</match>
+			<match>engenharia de lorena</match>
+			<match>fmrp</match>
+			<match>faculdade de medicina de ribeirao p</match>
+			<match>ffclrp</match>
+			<match>fac filosofia ciencias letras ribeirao pret</match>
+			<match>fac med ribeirao preto</match>
+			<match>faculty of medicine of ribeirao preto</match>
+			<match>med sch ribeirao preto</match>
+			<match>medicine school of ribeirao</match>
+			<match>school of medicine of ribeirao</match>
+		</rules>
+		<value>Universidade de São Paulo (USP)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Campinas (UNICAMP)">
+		<rules>
+			<match>zeferino vaz</match>
+			<match>estadual de campinas</match>
+		</rules>
+		<value>Universidade Estadual de Campinas (UNICAMP)</value>
+	</pattern>
+
+	<pattern label="Agência Paulista de Tecnologia dos Agronegócios (APTA)">
+		<rules>
+			<match>agencia paulista de tecnologia dos agro</match>
+			<match>agencia paulista de tecnologia e agro</match>
+			<match>agencia paulista do agronegocio</match>
+			<match>agencia paulista tecn dos a</match>
+			<match>agencia paulista tecnol agro</match>
+			<match>agencia paulista de tecnologia do agro</match>
+			<match>agencia paulista de tecnologia de agro</match>
+			<match>apta</match>
+		</rules>
+		<value>Agência Paulista de Tecnologia dos Agronegócios (APTA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal da Bahia (UFBA)">
+		<rules>
+			<match>universidade federal da bahia</match>
+			<match>ufba</match>
+			<match>fed univ bahia</match>
+			<match>univ fed bahia</match>
+		</rules>
+		<value>Universidade Federal da Bahia (UFBA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal da Fronteira Sul (UFFS)">
+		<rules>
+			<match>universidade federal da fronteira sul</match>
+			<match>uffs</match>
+			<match>univ fed fronteira sul</match>
+			<match>fed univ fronteira sul</match>
+		</rules>
+		<value>Universidade Federal da Fronteira Sul (UFFS)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal da Grande Dourados (UFGD)">
+		<rules>
+			<match>universidade federal da grande dourados</match>
+			<match>ufgd</match>
+			<match>fed univ grande dourados</match>
+			<match>univ fed grande dourados</match>
+		</rules>
+		<value>Universidade Federal da Grande Dourados (UFGD)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB)">
+		<rules>
+			<match>universidade federal da integracao internacional da lusofonia afrobrasileira</match>
+			<match>unilab</match>
+		</rules>
+		<value>Universidade Federal da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal da Integração Latino-Americana (UNILA)">
+		<rules>
+			<match>universidade federal da integracao latinoamericana</match>
+		</rules>
+		<value>Universidade Federal da Integração Latino-Americana (UNILA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal da Paraíba (UFPB)">
+		<rules>
+			<match>universidade federal da paraiba</match>
+			<match>ufpb</match>
+			<match>univ fed paraiba</match>
+			<match>univ fed da paraiba</match>
+			<match>fed univ paraiba</match>
+		</rules>
+		<value>Universidade Federal da Paraíba (UFPB)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Alagoas (UFAL)">
+		<rules>
+			<match>universidade federal de alagoas</match>
+			<match>ufal</match>
+			<match>univ fed alagoas</match>
+			<match>fed univ alagoas</match>
+		</rules>
+		<value>Universidade Federal de Alagoas (UFAL)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Alfenas (UNIFAL)">
+		<rules>
+			<match>universidade federal de alfenas</match>
+			<match>unifal</match>
+			<match>univ fed alfenas</match>
+			<match>univ fed de alfenas</match>
+			<match>fed univ alfenas</match>
+		</rules>
+		<value>Universidade Federal de Alfenas (UNIFAL)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Campina Grande (UFCG)">
+		<rules>
+			<match>universidade federal de campina grande</match>
+			<match>ufcg</match>
+			<match>univ fed campina grande</match>
+			<match>fed univ campina grande</match>
+		</rules>
+		<value>Universidade Federal de Campina Grande (UFCG)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)">
+		<rules>
+			<match>universidade federal de ciencias da saude de porto alegre</match>
+			<match>ufcspa</match>
+		</rules>
+		<value>Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Goiás (UFG)">
+		<rules>
+			<match>universidade federal de goias</match>
+			<match>univ fed goias</match>
+			<match>fed univ goias</match>
+			<match>goias fed univ</match>
+		</rules>
+		<value>Universidade Federal de Goiás (UFG)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Itajubá (UNIFEI)">
+		<rules>
+			<match>universidade federal de itajuba</match>
+			<match>unifei</match>
+		</rules>
+		<value>Universidade Federal de Itajubá (UNIFEI)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Juiz de Fora (UFJF)">
+		<rules>
+			<match>universidade federal de juiz de fora</match>
+			<match>ufjf</match>
+			<match>univ fed juiz de fora</match>
+			<match>univ fed juiz fora</match>
+			<match>fed univ juiz de fora</match>
+			<match>fed univ juiz fora</match>
+		</rules>
+		<value>Universidade Federal de Juiz de Fora (UFJF)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Lavras (UFLA)">
+		<rules>
+			<match>universidade federal de lavras</match>
+			<match>ufla</match>
+			<match>univ fed lavras</match>
+			<match>univ fed de lavras</match>
+			<match>fed univ lavras</match>
+		</rules>
+		<value>Universidade Federal de Lavras (UFLA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Mato Grosso (UFMT)">
+		<rules>
+			<match>universidade federal de mato grosso ufmt</match>
+			<match>ufmt</match>
+		</rules>
+		<value>Universidade Federal de Mato Grosso (UFMT)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Mato Grosso do Sul (UFMS)">
+		<rules>
+			<match>universidade federal de mato grosso do sul</match>
+			<match>ufms</match>
+			<match>univ fed mato grosso do sul</match>
+			<match>fed univ mato grosso do sul</match>
+			<match>univ fed mato grosso sul</match>
+			<match>fed univ mato grosso sul</match>
+		</rules>
+		<value>Universidade Federal de Mato Grosso do Sul (UFMS)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Minas Gerais (UFMG)">
+		<rules>
+			<match>universidade federal de minas gerais</match>
+			<match>ufmg</match>
+			<match>univ fed minas gerais</match>
+			<match>univ fed de minas gerais</match>
+			<match>fed univ minas gerais</match>
+		</rules>
+		<value>Universidade Federal de Minas Gerais (UFMG)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Ouro Preto (UFOP)">
+		<rules>
+			<match>universidade federal de ouro preto</match>
+			<match>univ fed ouro preto</match>
+			<match>fed univ ouro preto</match>
+		</rules>
+		<value>Universidade Federal de Ouro Preto (UFOP)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Pelotas (UFPEL)">
+		<rules>
+			<match>universidade federal de pelotas</match>
+			<match>ufpel</match>
+			<match>univ fed pelotas</match>
+			<match>fed univ pelotas</match>
+		</rules>
+		<value>Universidade Federal de Pelotas (UFPEL)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Pernambuco (UFPE)">
+		<rules>
+			<match>universidade federal de pernambuco</match>
+			<match>univ fed pernambuco</match>
+			<match>fed univ pernambuco</match>
+		</rules>
+		<value>Universidade Federal de Pernambuco (UFPE)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Rondônia (UNIR)">
+		<rules>
+			<match>universidade federal de rondonia</match>
+			<match>fed univ rondonia</match>
+			<match>univ fed rondonia</match>
+		</rules>
+		<value>Universidade Federal de Rondônia (UNIR)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Roraima (UFRR)">
+		<rules>
+			<match>universidade federal de roraima</match>
+			<match>univ fed roraima</match>
+			<match>fed univ roraima</match>
+		</rules>
+		<value>Universidade Federal de Roraima (UFRR)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Santa Catarina (UFSC)">
+		<rules>
+			<match>universidade federal de santa catarina</match>
+			<match>univ fed santa catarina</match>
+			<match>fed univ santa catarina</match>
+		</rules>
+		<value>Universidade Federal de Santa Catarina (UFSC)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Santa Maria (UFSM)">
+		<rules>
+			<match>universidade federal de santa maria</match>
+			<match>ufsm</match>
+			<match>univ fed santa maria</match>
+			<match>fed univ santa maria</match>
+		</rules>
+		<value>Universidade Federal de Santa Maria (UFSM)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de São Carlos (UFSCar)">
+		<rules>
+			<match>universidade federal de sao carlos</match>
+			<match>ufscar</match>
+			<match>fed univ sao carlos</match>
+			<match>univ fed sao carlos</match>
+			<match>univ fed de s carlos</match>
+			<match>univ fed s carlos</match>
+			<match>biologia animal campus experimental de sorocaba</match>
+			<match>sao carlos federal univ</match>
+			<match>sao carlos state univ</match>
+			<match>sao carlos univ</match>
+			<match>stat univ sao carlos</match>
+			<match>state univ sao carlos</match>
+			<match>universidade de sao carlos</match>
+			<match>university federal de sao carlos</match>
+		</rules>
+		<value>Universidade Federal de São Carlos (UFSCar)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de São João del-Rei (UFSJ)">
+		<rules>
+			<match>universidade federal de sao joao delrei</match>
+			<match>ufsj</match>
+			<match>univ fed sao joao delrei</match>
+			<match>univ fed de sao joao delrei</match>
+			<match>fed univ sao joao delrei</match>
+			<match>univ fed sao joao del rei</match>
+			<match>fed univ sao joao del rei</match>
+			<match>fed univ de sao joao del rei</match>
+		</rules>
+		<value>Universidade Federal de São João del-Rei (UFSJ)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de São Paulo (UNIFESP)">
+		<rules>
+			<match>universidade federal de sao paulo</match>
+			<match>unifesp</match>
+			<match>fed univ sao paulo</match>
+			<match>fed univ of sao paulo</match>
+			<match>univ fed sao paulo</match>
+			<match>univ fed of sao paulo</match>
+		</rules>
+		<value>Universidade Federal de São Paulo (UNIFESP)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Sergipe (UFS)">
+		<rules>
+			<match>universidade federal de sergipe</match>
+			<match>univ fed sergipe</match>
+			<match>fed univ sergipe</match>
+		</rules>
+		<value>Universidade Federal de Sergipe (UFS)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Uberlândia (UFU)">
+		<rules>
+			<match>universidade federal de uberlandia</match>
+			<match>ufu</match>
+			<match>univ fed uberlandia</match>
+			<match>fed univ uberlandia</match>
+		</rules>
+		<value>Universidade Federal de Uberlândia (UFU)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal de Viçosa (UFV)">
+		<rules>
+			<match>universidade federal de vicosa</match>
+			<match>univ fed vicosa</match>
+			<match>fed univ vicosa</match>
+		</rules>
+		<value>Universidade Federal de Viçosa (UFV)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do ABC (UFABC)">
+		<rules>
+			<match>universidade federal do abc</match>
+			<match>ufabc</match>
+			<match>unif fed abc</match>
+			<match>fed univ abc</match>
+		</rules>
+		<value>Universidade Federal do ABC (UFABC)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Acre (UFAC)">
+		<rules>
+			<match>universidade federal do acre</match>
+			<match>ufac</match>
+			<match>univ fed acre</match>
+			<match>fed univ acre</match>
+		</rules>
+		<value>Universidade Federal do Acre (UFAC)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Amapá (UNIFAP)">
+		<rules>
+			<match>universidade federal do amapa</match>
+			<match>unifap</match>
+			<match>univ fed amapa</match>
+			<match>fed univ amapa</match>
+		</rules>
+		<value>Universidade Federal do Amapá (UNIFAP)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Amazonas (UFAM)">
+		<rules>
+			<match>universidade federal do amazonas</match>
+			<match>ufam</match>
+			<match>univ fed amazonas</match>
+			<match>univ fed do amazonas</match>
+			<match>fed univ amazonas</match>
+			<match>amazonas fed univ</match>
+			<match>amazonas federal univ</match>
+		</rules>
+		<value>Universidade Federal do Amazonas (UFAM)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Cariri (UFCA)">
+		<rules>
+			<match>universidade federal do cariri</match>
+			<match>ufca</match>
+			<match>univ fed cariri</match>
+			<match>fed univ cariri</match>
+		</rules>
+		<value>Universidade Federal do Cariri (UFCA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Ceará (UFC)">
+		<rules>
+			<match>universidade federal do ceara</match>
+			<match>univ fed ceara</match>
+			<match>fed univ ceara</match>
+		</rules>
+		<value>Universidade Federal do Ceará (UFC)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Espírito Santo (UFES)">
+		<rules>
+			<match>universidade federal do espirito santo</match>
+			<match>ufes</match>
+			<match>univ fed espirito santo</match>
+			<match>fed univ espirito santo</match>
+		</rules>
+		<value>Universidade Federal do Espírito Santo (UFES)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Estado do Rio de Janeiro (UNIRIO)">
+		<rules>
+			<match>universidade federal do estado do rio de janeiro</match>
+			<match>unirio</match>
+
+		</rules>
+		<value>Universidade Federal do Estado do Rio de Janeiro (UNIRIO)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Maranhão (UFMA)">
+		<rules>
+			<match>universidade federal do maranhao</match>
+			<match>ufma</match>
+			<match>univ fed maranhao</match>
+			<match>fed univ maranhao</match>
+		</rules>
+		<value>Universidade Federal do Maranhão (UFMA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Oeste da Bahia (UFOB)">
+		<rules>
+			<match>universidade federal do oeste da bahia</match>
+			<match>ufob</match>
+			<match>univ fed oeste bahia</match>
+			<match>fed univ oeste bahia</match>
+		</rules>
+		<value>Universidade Federal do Oeste da Bahia (UFOB)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Oeste do Pará (UFOPA)">
+		<rules>
+			<match>universidade federal do oeste do para</match>
+			<match>ufopa</match>
+			<match>univ fed oeste para</match>
+			<match>fed univ oeste para</match>
+		</rules>
+		<value>Universidade Federal do Oeste do Pará (UFOPA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Pampa (UNIPAMPA)">
+		<rules>
+			<match>universidade federal do pampa</match>
+			<match>unipampa</match>
+			<match>univ fed pampa</match>
+			<match>fed univ pampa</match>
+		</rules>
+		<value>Universidade Federal do Pampa (UNIPAMPA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Pará (UFPA)">
+		<rules>
+			<match>ufpa</match>
+		</rules>
+		<value>Universidade Federal do Pará (UFPA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Paraná (UFPR)">
+		<rules>
+			<match>universidade federal do parana</match>
+			<match>ufpr</match>
+			<match>univ fed parana</match>
+			<match>fed univ parana</match>
+		</rules>
+		<value>Universidade Federal do Paraná (UFPR)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Piauí (UFPI)">
+		<rules>
+			<match>universidade federal do piaui</match>
+			<match>ufpi</match>
+			<match>univ fed piaui</match>
+			<match>fed univ piaui</match>
+		</rules>
+		<value>Universidade Federal do Piauí (UFPI)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Recôncavo da Bahia (UFRB)">
+		<rules>
+			<match>universidade federal do reconcavo</match>
+			<match>ufrb</match>
+			<match>univ fed reconcavo</match>
+			<match>fed univ reconcavo</match>
+		</rules>
+		<value>Universidade Federal do Recôncavo da Bahia (UFRB)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Rio de Janeiro (UFRJ)">
+		<rules>
+			<match>universidade federal do rio de janeiro</match>
+			<match>ufrj</match>
+			<match>univ fed rio de janeiro</match>
+			<match>fed univ rio de janeiro</match>
+		</rules>
+		<value>Universidade Federal do Rio de Janeiro (UFRJ)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Rio Grande (FURG)">
+		<rules>
+			<match>furg</match>
+		</rules>
+		<value>Universidade Federal do Rio Grande (FURG)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Rio Grande do Norte (UFRN)">
+		<rules>
+			<match>universidade federal do rio grande do norte</match>
+			<match>ufrn</match>
+			<match>univ fed rio grande do norte</match>
+			<match>fed univ rio grande do norte</match>
+			<match>fed univ rio grande norte</match>
+			<match>univ fed rio grande norte</match>
+		</rules>
+		<value>Universidade Federal do Rio Grande do Norte (UFRN)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Rio Grande do Sul (UFRGS)">
+		<rules>
+			<match>universidade federal do rio grande do sul</match>
+			<match>ufrgs</match>
+			<match>univ fed rio grande do sul</match>
+			<match>fed univ rio grande do sul</match>
+			<match>univ fed rio grande sul</match>
+			<match>fed univ rio grande sul</match>
+		</rules>
+		<value>Universidade Federal do Rio Grande do Sul (UFRGS)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Sul da Bahia (UFSB)">
+		<rules>
+			<match>universidade federal do sul da bahia</match>
+			<match>ufsb</match>
+		</rules>
+		<value>Universidade Federal do Sul da Bahia (UFSB)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)">
+		<rules>
+			<match>universidade federal do sul e sudeste do para</match>
+			<match>unifesspa</match>
+		</rules>
+		<value>Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Tocantins (UFT)">
+		<rules>
+			<match>universidade federal do tocantins</match>
+			<match>univ fed tocantins</match>
+			<match>fed univ tocantins</match>
+		</rules>
+		<value>Universidade Federal do Tocantins (UFT)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Triângulo Mineiro (UFTM)">
+		<rules>
+			<match>universidade federal do triangulo mineiro</match>
+			<match>uftm</match>
+			<match>univ fed triangulo mineiro</match>
+			<match>fed univ triangulo mineiro</match>
+		</rules>
+		<value>Universidade Federal do Triângulo Mineiro (UFTM)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal do Vale do São Francisco (UNIVASF)">
+		<rules>
+			<match>universidade federal do vale do sao francisco</match>
+			<match>univasf</match>
+			<match>univ fed vale sao francisco</match>
+		</rules>
+		<value>Universidade Federal do Vale do São Francisco (UNIVASF)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)">
+		<rules>
+			<match>universidade federal dos vales do jequitinhonha e mucuri</match>
+			<match>ufvjm</match>
+		</rules>
+		<value>Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal Fluminense (UFF)">
+		<rules>
+			<match>universidade federal fluminense</match>
+			<match>univ fed fluminense</match>
+			<match>fed univ fluminense</match>
+		</rules>
+		<value>Universidade Federal Fluminense (UFF)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal Rural da Amazônia (UFRA)">
+		<rules>
+			<match>universidade federal rural da amazonia</match>
+			<match>ufra</match>
+			<match>univ fed rural da amazonia</match>
+			<match>univ fed rural amazonia</match>
+		</rules>
+		<value>Universidade Federal Rural da Amazônia (UFRA)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal Rural de Pernambuco (UFRPE)">
+		<rules>
+			<match>universidade federal rural de pernambuco</match>
+			<match>ufrpe</match>
+			<match>univ fed rural de pernambuco</match>
+			<match>univ fed rural pernambuco</match>
+			<match>fed univ rural pernambuco</match>
+		</rules>
+		<value>Universidade Federal Rural de Pernambuco (UFRPE)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal Rural do Rio de Janeiro (UFRRJ)">
+		<rules>
+			<match>universidade federal rural do rio de janeiro</match>
+			<match>ufrrj</match>
+			<match>univ fed rural rio de janeiro</match>
+			<match>univ fed rural do rio de janeiro</match>
+			<match>fed univ rural rio de janeiro</match>
+		</rules>
+		<value>Universidade Federal Rural do Rio de Janeiro (UFRRJ)</value>
+	</pattern>
+
+	<pattern label="Universidade Federal Rural do Semi-Árido (UFERSA)">
+		<rules>
+			<match>universidade federal rural do semiarido</match>
+			<match>ufersa</match>
+		</rules>
+		<value>Universidade Federal Rural do Semi-Árido (UFERSA)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Campinas (UNICAMP)">
+		<rules>
+			<match>universidade estadual de campinas</match>
+			<match>universidade de campinas</match>
+			<match>unicamp</match>
+			<match>univ est campinas</match>
+			<match>univ campinas</match>
+		</rules>
+		<value>Universidade Estadual de Campinas (UNICAMP)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL)">
+		<rules>
+			<match>universidade estadual de ciencias da saude de alagoas</match>
+			<match>uncisal</match>
+		</rules>
+		<value>Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Feira de Santana (UEFS)">
+		<rules>
+			<match>universidade estadual de feira de santana</match>
+			<match>uefs</match>
+			<match>estadual univ feira santana</match>
+		</rules>
+		<value>Universidade Estadual de Feira de Santana (UEFS)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Goiás (UEG)">
+		<rules>
+			<match>universidade estadual de goias</match>
+			<match>ueg</match>
+		</rules>
+		<value>Universidade Estadual de Goiás (UEG)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Londrina (UEL)">
+		<rules>
+			<match>universidade estadual de londrina</match>
+			<match>uel</match>
+			<match>univ est londrina</match>
+		</rules>
+		<value>Universidade Estadual de Londrina (UEL)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Maringá (UEM)">
+		<rules>
+			<match>universidade estadual de maringa</match>
+			<match>univ est maringa</match>
+			<match>maringa state univ</match>
+		</rules>
+		<value>Universidade Estadual de Maringá (UEM)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Mato Grosso do Sul (UEMS)">
+		<rules>
+			<match>universidade estadual de mato grosso do sul</match>
+			<match>uems</match>
+			<match>univ est mato grosso do sul</match>
+		</rules>
+		<value>Universidade Estadual de Mato Grosso do Sul (UEMS)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Montes Claros (UNIMONTES)">
+		<rules>
+			<match>universidade estadual de montes claros</match>
+			<match>unimontes</match>
+		</rules>
+		<value>Universidade Estadual de Montes Claros (UNIMONTES)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Ponta Grossa (UEPG)">
+		<rules>
+			<match>universidade estadual de ponta grossa</match>
+			<match>uepg</match>
+		</rules>
+		<value>Universidade Estadual de Ponta Grossa (UEPG)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Roraima (UERR)">
+		<rules>
+			<match>universidade estadual de roraima</match>
+			<match>uerr</match>
+		</rules>
+		<value>Universidade Estadual de Roraima (UERR)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual de Santa Cruz (UESC)">
+		<rules>
+			<match>universidade estadual de santa cruz</match>
+			<match>uesc</match>
+		</rules>
+		<value>Universidade Estadual de Santa Cruz (UESC)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Ceará (UECE)">
+		<rules>
+			<match>universidade estadual do ceara</match>
+			<match>uece</match>
+			<match>estadual univ ceara</match>
+		</rules>
+		<value>Universidade Estadual do Ceará (UECE)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Centro Oeste (UNICENTRO)">
+		<rules>
+			<match>universidade estadual do centro oeste</match>
+			<match>unicentro</match>
+		</rules>
+		<value>Universidade Estadual do Centro Oeste (UNICENTRO)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Maranhão (UEMA)">
+		<rules>
+			<match>universidade estadual do maranhao</match>
+			<match>uema</match>
+		</rules>
+		<value>Universidade Estadual do Maranhão (UEMA)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Norte do Paraná (UENP)">
+		<rules>
+			<match>universidade estadual do norte do parana</match>
+			<match>uenp</match>
+		</rules>
+		<value>Universidade Estadual do Norte do Paraná (UENP)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF)">
+		<rules>
+			<match>universidade estadual do norte fluminense darcy ribeiro</match>
+			<match>uenf</match>
+		</rules>
+		<value>Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Oeste do Paraná (UNIOESTE)">
+		<rules>
+			<match>universidade estadual do oeste do parana</match>
+			<match>unioeste</match>
+		</rules>
+		<value>Universidade Estadual do Oeste do Paraná (UNIOESTE)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Piauí (UESPI)">
+		<rules>
+			<match>universidade estadual do piaui</match>
+			<match>uespi</match>
+		</rules>
+		<value>Universidade Estadual do Piauí (UESPI)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Rio Grande do Sul (UERGS)">
+		<rules>
+			<match>universidade estadual do rio grande do sul</match>
+			<match>uergs</match>
+		</rules>
+		<value>Universidade Estadual do Rio Grande do Sul (UERGS)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Sudoeste da Bahia (UESB)">
+		<rules>
+			<match>universidade estadual do sudoeste da bahia</match>
+			<match>uesb</match>
+		</rules>
+		<value>Universidade Estadual do Sudoeste da Bahia (UESB)</value>
+	</pattern>
+
+	<pattern label="Universidade Estadual do Vale do Acaraú (UVA)">
+		<rules>
+			<match>universidade estadual do vale do acarau</match>
+			<match>vale do acarau</match>
+		</rules>
+		<value>Universidade Estadual do Vale do Acaraú (UVA)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado da Bahia (UNEB)">
+		<rules>
+			<match>universidade do estado da bahia</match>
+			<match>uneb</match>
+		</rules>
+		<value>Universidade do Estado da Bahia (UNEB)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado de Mato Grosso (UNEMAT)">
+		<rules>
+			<match>universidade do estado de mato grosso</match>
+			<match>unemat</match>
+		</rules>
+		<value>Universidade do Estado de Mato Grosso (UNEMAT)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado de Minas Gerais (UEMG)">
+		<rules>
+			<match>universidade do estado de minas gerais</match>
+			<match>uemg</match>
+		</rules>
+		<value>Universidade do Estado de Minas Gerais (UEMG)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado de Santa Catarina (UDESC)">
+		<rules>
+			<match>universidade do estado de santa catarina</match>
+			<match>udesc</match>
+		</rules>
+		<value>Universidade do Estado de Santa Catarina (UDESC)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado do Amapá (UEAP)">
+		<rules>
+			<match>universidade do estado do amapa</match>
+			<match>ueap</match>
+		</rules>
+		<value>Universidade do Estado do Amapá (UEAP)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado do Amazonas (UEA)">
+		<rules>
+			<match>universidade do estado do amazonas</match>
+			<match>amazonas state univ</match>
+		</rules>
+		<value>Universidade do Estado do Amazonas (UEA)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado do Pará (UEPA)">
+		<rules>
+			<match>universidade do estado do para</match>
+			<match>uepa</match>
+		</rules>
+		<value>Universidade do Estado do Pará (UEPA)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado do Rio de Janeiro (UERJ)">
+		<rules>
+			<match>universidade do estado do rio de janeiro</match>
+			<match>uerj</match>
+		</rules>
+		<value>Universidade do Estado do Rio de Janeiro (UERJ)</value>
+	</pattern>
+
+	<pattern label="Universidade do Estado do Rio Grande do Norte (UERN)">
+		<rules>
+			<match>universidade do estado do rio grande do norte</match>
+			<match>uern</match>
+		</rules>
+		<value>Universidade do Estado do Rio Grande do Norte (UERN)</value>
+	</pattern>
+
+	<pattern label="Faculdade de Medicina de Jundiaí (FMJ)">
+		<rules>
+			<match>faculdade de medicina de jundiai</match>
+			<match>fmj</match>
+		</rules>
+		<value>Faculdade de Medicina de Jundiaí (FMJ)</value>
+	</pattern>
+
+	<pattern label="Faculdade de Medicina de São José do Rio Preto (FAMERP)">
+		<rules>
+			<match>faculdade de medicina de sao jose do rio preto</match>
+			<match>famerp</match>
+		</rules>
+		<value>Faculdade de Medicina de São José do Rio Preto (FAMERP)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica de Campinas (PUC-CAMPINAS)">
+		<rules>
+			<match>pontificia universidade catolica de campinas</match>
+			<match>pontificia univ catolica campinas</match>
+			<match>puccamp</match>
+			<match>puc camp</match>
+			<match>pontif univ catholic campinas</match>
+			<match>pontif univ catolica campinas</match>
+			<match>pontifical catholic univ campinas</match>
+			<match>pontifical catholic university of campinas</match>
+			<match>pontificia univ catolica campinas</match>
+			<match>pontificia univ campinas</match>
+			
+			<match>goias pontifical cathol univ</match>
+		</rules>
+		<value>Pontifícia Universidade Católica de Campinas (PUC-CAMPINAS)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica de Goiás (PUC-Goiás)">
+		<rules>
+			<match>pontificia universidade catolica de goias</match>
+			<match>pontif univ catholic goias</match>
+			<match>pontif univ catholic de goias</match>
+			<match>pontif univ catolica goias</match>
+			<match>pontif univ catolica de goias</match>
+			<match>pontifical catholic univ goias</match>
+			<match>pontifical catholic univ of goias</match>
+			<match>pontifical catholic university goias</match>
+			<match>pontifical catholic university of goias</match>
+			<match>pontificia univ catolica goias</match>
+			<match>pontificia univ catolica de goias</match>
+			<match>pontificia univ goias</match>
+			<match>pontificia univ de goias</match>
+			<match>puc goias</match>
+			<match>pucgoias</match>
+			<match>goias pontifical cathol univ</match>
+		</rules>
+		<value>Pontifícia Universidade Católica de Goiás (PUC-Goiás)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)">
+		<rules>
+			<match>pontificia universidade catolica de minas</match>
+			<match>pontif univ catholic minas</match>
+			<match>pontif univ catholic de minas</match>
+			<match>pontif univ catolica minas</match>
+			<match>pontif univ catolica de minas</match>
+			<match>pontifical catholic univ minas</match>
+			<match>pontifical catholic univ of minas</match>
+			<match>pontifical catholic university minas</match>
+			<match>pontifical catholic university of minas</match>
+			<match>pontificia univ catolica minas</match>
+			<match>pontificia univ catolica de minas</match>
+			<match>pontificia univ minas</match>
+			<match>pontificia univ de minas</match>
+			<match>puc minas</match>
+			<match>pucminas</match>
+			<match>minas gerais pontifical cathol univ</match>
+		</rules>
+		<value>Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica de São Paulo (PUC-SP)">
+		<rules>
+			<match>pontificia universidade catolica de sao paulo</match>
+			<match>pontif univ catholic sao paulo</match>
+			<match>pontif univ catholic de sao paulo</match>
+			<match>pontif univ catolica sao paulo</match>
+			<match>pontif univ catolica de sao paulo</match>
+			<match>pontifical catholic univ sao paulo</match>
+			<match>pontifical catholic univ of sao paulo</match>
+			<match>pontifical catholic university sao paulo</match>
+			<match>pontifical catholic university of sao paulo</match>
+			<match>pontificia univ catolica sao paulo</match>
+			<match>pontificia univ catolica de sao paulo</match>
+			<match>pontificia univ sao paulo</match>
+			<match>pontificia univ de sao paulo</match>
+			<match>puc sao paulo</match>
+			<match>pucsao paulo</match>
+			<match>pucsp</match>
+			<match>puc sp</match>
+			<match>sao paulo pontifical cathol univ</match>
+			<match>puc sorocaba</match>
+			<match>puc barueri</match>
+			<match>puc perdizes</match>
+			<match>puc consolacao</match>
+			<match>puc santana</match>
+			<match>puc ipiranga</match>
+		</rules>
+		<value>Pontifícia Universidade Católica de São Paulo (PUC-SP)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica do Paraná (PUCPR)">
+		<rules>
+			<match>pontificia universidade catolica do parana</match>
+			<match>pontif univ catholic parana</match>
+			<match>pontif univ catholic do parana</match>
+			<match>pontif univ catolica parana</match>
+			<match>pontif univ catolica do parana</match>
+			<match>pontifical catholic univ parana</match>
+			<match>pontifical catholic univ of parana</match>
+			<match>pontifical catholic university parana</match>
+			<match>pontifical catholic university of parana</match>
+			<match>pontificia univ catolica parana</match>
+			<match>pontificia univ catolica do parana</match>
+			<match>pontificia univ parana</match>
+			<match>pontificia univ do parana</match>
+			<match>puc parana</match>
+			<match>pucparana</match>
+			<match>pucpr</match>
+			<match>puc pr</match>
+			<match>parana pontifical cathol univ</match>
+		</rules>
+		<value>Pontifícia Universidade Católica do Paraná (PUCPR)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)">
+		<rules>
+			<match>pontificia universidade catolica do rio de janeiro</match>
+			<match>pontif univ catholic rio de janeiro</match>
+			<match>pontif univ catholic do rio de janeiro</match>
+			<match>pontif univ catolica rio de janeiro</match>
+			<match>pontif univ catolica do rio de janeiro</match>
+			<match>pontifical catholic univ rio de janeiro</match>
+			<match>pontifical catholic univ of rio de janeiro</match>
+			<match>pontifical catholic university rio de janeiro</match>
+			<match>pontifical catholic university of rio de janeiro</match>
+			<match>pontificia univ catolica rio de janeiro</match>
+			<match>pontificia univ catolica do rio de janeiro</match>
+			<match>pontificia univ rio de janeiro</match>
+			<match>pontificia univ do rio de janeiro</match>
+			<match>puc rio</match>
+			<match>pucrio</match>
+			<match>rio de janeiro pontifical cathol univ</match>
+		</rules>
+		<value>Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)</value>
+	</pattern>
+
+	<pattern label="Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)">
+		<rules>
+			<match>pontificia universidade catolica do rio grande d</match>
+			<match>pontif univ catholic rio grande d</match>
+			<match>pontif univ catholic rio grande sul</match>
+			<match>pontif univ catolica rio grande d</match>
+			<match>pontif univ catolica rio grande sul</match>
+			<match>pontifical catholic univ rio grande d</match>
+			<match>pontifical catholic univ rio grande sul</match>
+			<match>pontifical catholic university of rio grande d</match>
+			<match>pontificia univ catolica do rio grande d</match>
+			<match>pontificia univ rio grande sul</match>
+			<match>pucrs</match>
+			<match>puc rs</match>
+			<match>rio grande pontifical cathol univ</match>
+			<match>rio grande sul pontifical cathol univ</match>
+		</rules>
+		<value>Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)</value>
+	</pattern>
+
+	<pattern label="Universidade de Brasília (UnB)">
+		<rules>
+			<match>universidade de brasilia</match>
+			<match>unb</match>
+			<match>univ fed brasilia</match>
+		</rules>
+		<value>Universidade de Brasília (UnB)</value>
+	</pattern>
+
+	<pattern label="RWTH Aachen University">
+		<rules>
+			<match>rhein westfal th aachen</match>
+			<match>rwth</match>
+			<match>rheinischwestfalische technische hochschule aachen</match>
+		</rules>
+		<value>RWTH Aachen University</value>
+	</pattern>
+
+	<pattern label="University of Kansas (KU)">
+		<rules>
+			<match>univ kansas</match>
+			<match>university of kansas</match>
+		</rules>
+		<value>University of Kansas (KU)</value>
+	</pattern>
+
+	<pattern label="Kansas State University">
+		<rules>
+			<match>kansas state univ</match>
+		</rules>
+		<value>Kansas State University</value>
+	</pattern>
+
+	<pattern label="Institute for Theoretical and Experimental Physics (ITEP)">
+		<rules>
+			<match>institute for theoretical and experimental physics</match>
+			<match>inst theoret expt phys</match>
+			<match>inst theoret exptl phys</match>
+		</rules>
+		<value>Institute for Theoretical and Experimental Physics (ITEP)</value>
+	</pattern>
+
+	<pattern label="Centro Brasileiro de Pesquisas Físicas (CBPF)">
+		<rules>
+			<match>brazilian center for physics research</match>
+			<match>ctr brasileiro pesquisas fis</match>
+		</rules>
+		<value>Centro Brasileiro de Pesquisas Físicas (CBPF)</value>
+	</pattern>
+
+	<pattern label="Northwestern University (NU)">
+		<rules>
+			<match>northwestern univ</match>
+		</rules>
+		<value>Northwestern University (NU)</value>
+	</pattern>
+
+	<pattern label="Florida State University">
+		<rules>
+			<match>florida state univ</match>
+		</rules>
+		<value>Florida State University</value>
+	</pattern>
+
+	<pattern label="Princeton University">
+		<rules>
+			<match>princeton univ</match>
+		</rules>
+		<value>Princeton University</value>
+	</pattern>
+
+	<pattern label="University of Mississippi">
+		<rules>
+			<match>univ mississippi</match>
+			<match>university of mississippi</match>
+		</rules>
+		<value>University of Mississippi</value>
+	</pattern>
+
+	<pattern label="Boston University">
+		<rules>
+			<match>boston univ</match>
+		</rules>
+		<value>Boston University</value>
+	</pattern>
+
+	<pattern label="University of California, Riverside (UCR)">
+		<rules>
+			<match>univ calif riverside</match>
+			<match>university of california riverside</match>
+		</rules>
+		<value>University of California, Riverside (UCR)</value>
+	</pattern>
+
+	<pattern label="University of Virginia (UVA)">
+		<rules>
+			<match>univ virginia</match>
+			<match>university of virginia</match>
+		</rules>
+		<value>University of Virginia (UVA)</value>
+	</pattern>
+
+	<pattern label="Universidad de los Andes">
+		<rules>
+			<match>univ los andes</match>
+			<match>universidad de los andes</match>
+		</rules>
+		<value>Universidad de los Andes</value>
+	</pattern>
+
+	<pattern label="Rice University">
+		<rules>
+			<match>rice univ</match>
+		</rules>
+		<value>Rice University</value>
+	</pattern>
+
+	<pattern label="University of Rochester">
+		<rules>
+			<match>univ rochester</match>
+			<match>university of rochester</match>
+		</rules>
+		<value>University of Rochester</value>
+	</pattern>
+
+	<pattern label="Northeastern University">
+		<rules>
+			<match>northeastern univ</match>
+		</rules>
+		<value>Northeastern University</value>
+	</pattern>
+
+	<pattern label="Brown University">
+		<rules>
+			<match>brown univ</match>
+		</rules>
+		<value>Brown University</value>
+	</pattern>
+
+	<pattern label="Korea University">
+		<rules>
+			<match>korea univ</match>
+		</rules>
+		<value>Korea University</value>
+	</pattern>
+
+	<pattern label="University of Delhi">
+		<rules>
+			<match>univ delhi</match>
+			<match>university of delhi</match>
+		</rules>
+		<value>University of Delhi</value>
+	</pattern>
+
+	<pattern label="University of Maryland">
+		<rules>
+			<match>univ maryland</match>
+			<match>university of maryland</match>
+		</rules>
+		<value>University of Maryland</value>
+	</pattern>
+
+	<pattern label="Purdue University Calumet">
+		<rules>
+			<match>purdue univ calumet</match>
+			<match>purdue university calumet</match>
+		</rules>
+		<value>Purdue University Calumet</value>
+	</pattern>
+
+	<pattern label="University of Michigan">
+		<rules>
+			<match>univ michigan</match>
+			<match>university of michigan</match>
+		</rules>
+		<value>University of Michigan</value>
+	</pattern>
+
+	<pattern label="Michigan State University">
+		<rules>
+			<match>michigan state univ</match>
+		</rules>
+		<value>Michigan State University</value>
+	</pattern>
+
+	<pattern label="Columbia University">
+		<rules>
+			<match>columbia univ</match>
+		</rules>
+		<value>Columbia University</value>
+	</pattern>
+
+	<pattern label="University of Washington">
+		<rules>
+			<match>univ washington</match>
+			<match>university of washington</match>
+		</rules>
+		<value>University of Washington</value>
+	</pattern>
+
+	<pattern label="University of Arizona">
+		<rules>
+			<match>univ arizona</match>
+			<match>university of arizona</match>
+		</rules>
+		<value>University of Arizona</value>
+	</pattern>
+
+	<pattern label="University of Belgrade">
+		<rules>
+			<match>univ belgrade</match>
+			<match>university of belgrade</match>
+		</rules>
+		<value>University of Belgrade</value>
+	</pattern>
+
+	<pattern label="University of Manchester">
+		<rules>
+			<match>univ manchester</match>
+			<match>university of manchester</match>
+		</rules>
+		<value>University of Manchester</value>
+	</pattern>
+
+	<pattern label="Indiana University">
+		<rules>
+			<match>indiana univ</match>
+		</rules>
+		<value>Indiana University</value>
+	</pattern>
+
+	<pattern label="University of Oklahoma">
+		<rules>
+			<match>univ oklahoma</match>
+			<match>university of oklahoma</match>
+		</rules>
+		<value>University of Oklahoma</value>
+	</pattern>
+
+	<pattern label="University of Lancaster">
+		<rules>
+			<match>univ lancaster</match>
+			<match>university of lancaster</match>
+		</rules>
+		<value>University of Lancaster</value>
+	</pattern>
+
+	<pattern label="Louisiana Tech University">
+		<rules>
+			<match>louisiana tech univ</match>
+		</rules>
+		<value>Louisiana Tech University</value>
+	</pattern>
+
+	<pattern label="Instituto Adolfo Lutz (IAL)">
+		<rules>
+			<match>adolfo lutz</match>
+			<match>adolpho lutz</match>
+		</rules>
+		<value>Instituto Adolfo Lutz (IAL)</value>
+	</pattern>
+
+	<pattern label="Instituto Tecnológico de Aeronáutica (ITA)">
+		<rules>
+			<match>aeronaut inst technol</match>
+			<match>aeronautical institute of technology</match>
+			<match>inst technol aeronaut</match>
+			<match>inst tecnol aeronaut</match>
+			<match>instituto tecnologico da aeronautica</match>
+			<match>technological institute of aeronautics</match>
+			<match>inst tecnol aeronaut</match>
+			<match>inst tecnologico de aeronautica</match>
+			<match>technol inst aeronaut</match>
+		</rules>
+		<value>Instituto Tecnológico de Aeronáutica (ITA)</value>
+	</pattern>
+
+	<pattern label="Centro Federal de Educação Tecnológica (CEFET)">
+		<rules>
+			<match>cefet</match>
+			<match>ctr fed educ tecnol</match>
+			<match>ctr fed ensino tecnol</match>
+			<match>fed ctr technol educ</match>
+			<match>federal center for technological education</match>
+			<match>centro federal de educacao tecnologica</match>
+		</rules>
+		<value>Centro Federal de Educação Tecnológica (CEFET)</value>
+	</pattern>
+
+	<pattern label="Centro Brasileiro de Pesquisas Físicas (CBPF)">
+		<rules>
+			<match>cbpf</match>
+			<match>centro brasileiro de pesquisas fis</match>
+		</rules>
+		<value>Centro Brasileiro de Pesquisas Físicas (CBPF)</value>
+	</pattern>
+
+	<pattern label="Empresa Brasileira de Pesquisas Agropecuárias (EMBRAPA)">
+		<rules>
+			<match>empresa brasileira pesquisa agr</match>
+			<match>emp bras pesq agr</match>
+			<match>embrapa</match>
+			<match>embrapra</match>
+			<match>embapa</match>
+			<match>empraba</match>
+		</rules>
+		<value>Empresa Brasileira de Pesquisas Agropecuárias (EMBRAPA)</value>
+	</pattern>
+
+	<pattern label="Empresa de Pesquisa Agropecuária de Minas Gerais (EPAMIG)">
+		<rules>
+			<match>empresa de pesquisa agropecuaria de minas gerais</match>
+			<match>epamig</match>
+			<match>empresa pesquisa agr minas gerais</match>
+			<match>empresa pesquisa agropecuaria minas gerais</match>
+		</rules>
+		<value>Empresa de Pesquisa Agropecuária de Minas Gerais (EPAMIG)</value>
+	</pattern>
+
+	<pattern label="Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (EPAGRI)">
+		<rules>
+			<match>epagri</match>
+			<match>empresa de pesquisa agropecuaria e extensao rural de santa catarina</match>
+		</rules>
+		<value>Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (EPAGRI)</value>
+	</pattern>
+
+	<pattern label="Faculdade de Tecnologia do Estado de São Paulo (FATEC)">
+		<rules>
+			<match>fac tecnol estado sao paulo</match>
+			<match>fatec</match>
+		</rules>
+		<value>Faculdade de Tecnologia do Estado de São Paulo (FATEC)</value>
+	</pattern>
+
+	<pattern label="Faculdade de Medicina do ABC (FMABC)">
+		<rules>
+			<match>faculdade de medicina do abc</match>
+			<match>fmabc</match>
+		</rules>
+		<value>Faculdade de Medicina do ABC (FMABC)</value>
+	</pattern>
+	
+	<pattern label="Faculdade de Medicina de Marília (FAMEMA)">
+		<rules>
+			<match>faculdade de medicina de marilia</match>
+			<match>famema</match>
+			<match>fac med marilia</match>
+			<match>faculdade de medicina estadual de marilia</match>
+			<match>faculdade de med de marilia</match>
+			<match>marilia med sch</match>
+			<match>marilia medical school</match>
+			<match>marilia state med sch</match>
+		</rules>
+		<value>Faculdade de Medicina de Marília (FAMEMA)</value>
+	</pattern>
+
+	<pattern label="Universidade de Marília (UNIMAR)">
+		<rules>
+			<match>universidade de marilia</match>
+			<match>unimar</match>
+			<match>univ marilia</match>
+			<match>university of marilia</match>
+			<match>marilia univ</match>
+		</rules>
+		<value>Universidade de Marília (UNIMAR)</value>
+	</pattern>
+
+	<pattern label="Instituto Agronômico (IAC)">
+		<rules>
+			<match>instituto agronomico de camp</match>
+			<match>instituto agronomico centro</match>
+			<match>instituto agronomico secao</match>
+			<match>instituto agronomico do estado de sao paulo</match>
+			<match>inst agron iac</match>
+			<match>saa iac</match>
+			<match>iac saa</match>
+			<match>iacsaa</match>
+		</rules>
+		<value>Instituto Agronômico (IAC)</value>
+	</pattern>
+
+	<pattern label="Instituto Butantan">
+		<rules>
+			<match>butanta</match>
+		</rules>
+		<value>Instituto Butantan</value>
+	</pattern>
+
+	<pattern label="Instituto de Pesquisas Energéticas e Nucleares (IPEN)">
+		<rules>
+			<match>ipen</match>
+			<match>instituto de pesquisas energeticas e nucleares</match>
+			<match>inst energet nucl res</match>
+			<match>inst nucl energy research</match>
+			<match>inst pesquisas energet nucl</match>
+			<match>institute of energy and nuclear research</match>
+			<match>institute for nuclear energy research</match>
+			<match>nucl energet res inst</match>
+			<match>nuclear energy research institute</match>
+		</rules>
+		<value>Instituto de Pesquisas Energéticas e Nucleares (IPEN)</value>
+	</pattern>
+
+	<pattern label="Instituto Nacional de Pesquisas Espaciais (INPE)">
+		<rules>
+			<match>inpe</match>
+			<match>pesquisas espaciais</match>
+			<match>brazilian inst space res</match>
+			<match>brazilian institute for space research</match>
+			<match>brazilian space res inst</match>
+			<match>inst natl de pesq espaciais</match>
+			<match>natl inst space res</match>
+			<match>natl inst spatial res</match>
+			<match>natl inst for space res</match>
+			<match>natl inst of space res</match>
+		</rules>
+		<value>Instituto Nacional de Pesquisas Espaciais (INPE)</value>
+	</pattern>
+
+	<pattern label="Instituto Lauro de Souza Lima (ILSL)">
+		<rules>
+			<match>lauro de souza lima</match>
+			<match>ilsl</match>
+		</rules>
+		<value>Instituto Nacional de Pesquisas Espaciais (INPE)</value>
+	</pattern>
+
+	<pattern label="Instituto Nacional de Pesquisas da Amazônia (INPA)">
+		<rules>
+			<match>inpa</match>
+			<match>amazonian national research institute</match>
+			<match>instituto nacional de pesquisas da amazonia</match>
+			<match>inst nac de pesq da amazonia</match>
+			<match>national instituto for amazon research</match>
+			<match>natl amazon res inst</match>
+			<match>natl res inst amazon</match>
+		</rules>
+		<value>Instituto Nacional de Pesquisas da Amazônia (INPA)</value>
+	</pattern>
+
+	<pattern label="Laboratório de Instrumentação e Física Experimental de Partículas (LIP)">
+		<rules>
+			<match>lab instrument fis expt particulas</match>
+			<match>laboratorio de instrumentacao e fisica experimental de particulas</match>
+			<match>lab instrument fis expt particulas</match>
+			<match>lab instrumentac fis expt particuas</match>
+		</rules>
+		<value>Laboratório de Instrumentação e Física Experimental de Partículas (LIP)</value>
+	</pattern>
+
+	<pattern label="Massachusetts Institute of Technology (MIT)">
+		<rules>
+			<match>massachusetts institute of tec</match>
+			<match>massachusetts institute tec</match>
+			<match>massachussetts institute of technology</match>
+			<match>massachusetts inst of tec</match>
+			<match>massachusetts inst tec</match>
+		</rules>
+		<value>Massachusetts Institute of Technology (MIT)</value>
+	</pattern>
+
+	<pattern label="Universidade do Oeste Paulista (UNOESTE)">
+		<rules>
+			<match>unoeste</match>
+			<match>universidade do oeste paulista</match>
+			<match>univ oeste paulista</match>
+		</rules>
+		<value>Universidade do Oeste Paulista (UNOESTE)</value>
+	</pattern>
+
+	<pattern label="Universidade do Sagrado Coração (USC)">
+		<rules>
+			<match>univ sagrado coracao</match>
+			<match>univer do sagrado coracao</match>
+			<match>coracao usc</match>
+			<match>usc bauru</match>
+			<match>sagrado coracao univ</match>
+			<match>university sacred heart</match>
+			<match>univ sacred heart</match>
+		</rules>
+		<value>Universidade do Sagrado Coração (USC)</value>
+	</pattern>
+
+	<pattern label="Universidade Nove de Julho (UNINOVE)">
+		<rules>
+			<match>univ nove de julho</match>
+			<match>nove de julho univ</match>
+			<match>uninove</match>
+			<match>nove julho univ</match>
+		</rules>
+		<value>Universidade Nove de Julho (UNINOVE)</value>
+	</pattern>
+
+</patterns>

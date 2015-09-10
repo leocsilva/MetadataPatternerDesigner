@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="728.0" prefWidth="1024.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controladores.Tela">
+   <children>
+      <MenuBar layoutY="2.0" prefHeight="25.0" prefWidth="1024.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Arquivo">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#novoXML" text="Novo" />
+                  <MenuItem mnemonicParsing="false" onAction="#abrirXML" text="Abrir" />
+                  <MenuItem mnemonicParsing="false" onAction="#salvarXML" text="Salvar" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+              <MenuItem mnemonicParsing="false" onAction="#sair" text="Fechar" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <TabPane layoutY="27.0" prefHeight="700.0" prefWidth="1024.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab text="Editor Visual">
+               <content>
+                  <SplitPane dividerPositions="0.591796875" prefHeight="200.0" prefWidth="200.0">
+                     <items>
+                        <Pane prefHeight="200.0" prefWidth="200.0">
+                           <children>
+                              <Button layoutX="451.0" layoutY="2.0" mnemonicParsing="false" onAction="#adicionarPadrao" text="Adicionar" />
+                              <Button layoutX="525.0" layoutY="2.0" mnemonicParsing="false" onAction="#removerPadrao" text="Remover" />
+                              <ListView fx:id="listaPadroes" layoutX="-1.0" layoutY="33.0" prefHeight="642.0" prefWidth="605.0" />
+                              <Label layoutX="21.0" layoutY="14.0" text="Padrões" />
+                           </children>
+                        </Pane>
+                        <SplitPane dividerPositions="0.8077496274217586" orientation="VERTICAL" prefHeight="200.0" prefWidth="160.0">
+                          <items>
+                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="254.0" prefWidth="408.0">
+                                 <children>
+                                    <ListView fx:id="listaRegras" layoutY="27.0" prefHeight="472.0" prefWidth="410.0" />
+                                    <Button layoutX="338.0" layoutY="505.0" mnemonicParsing="false" onAction="#removerRegra" text="Remover" />
+                                    <Button layoutX="262.0" layoutY="505.0" mnemonicParsing="false" onAction="#adicionarRegra" text="Adicionar" />
+                                    <TextField fx:id="txtRegra" layoutX="86.0" layoutY="505.0" prefHeight="25.0" prefWidth="167.0" />
+                                    <Label layoutX="7.0" layoutY="509.0" prefHeight="17.0" prefWidth="76.0" text="Regra" />
+                                    <Label layoutX="14.0" layoutY="6.0" text="Regras" />
+                                 </children>
+                              </AnchorPane>
+                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                                 <children>
+                                    <Label layoutX="25.0" layoutY="14.0" text="Rótulo" />
+                                    <Label layoutX="25.0" layoutY="40.0" text="Valor" />
+                                    <TextField fx:id="txtRotulo" layoutX="72.0" layoutY="10.0" />
+                                    <TextField fx:id="txtValor" layoutX="72.0" layoutY="36.0" />
+                                    <Button layoutX="147.0" layoutY="75.0" mnemonicParsing="false" onAction="#aplicarAlteracoes" text="Aplicar" />
+                                 </children>
+                              </AnchorPane>
+                          </items>
+                        </SplitPane>
+                     </items>
+                  </SplitPane>
+               </content>
+            </Tab>
+          <Tab text="Editor de Texto">
+               <content>
+                  <TextArea fx:id="visualizadorXML" prefHeight="200.0" prefWidth="200.0" />
+               </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</Pane>
